@@ -26,6 +26,7 @@ The employee-tracker is an application used to store and access data sets.
 
 ## Usage
 
+![ezgif - e-commerce](https://user-images.githubusercontent.com/85534144/127728179-1622e61b-eacd-4469-bed6-c9d3b4a6a5d3.gif)
 
 
 
